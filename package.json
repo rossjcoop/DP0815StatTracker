@@ -1,0 +1,21 @@
+{
+  "name": "StatTracker",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "RC",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.2",
+    "config": "^1.26.2",
+    "express": "^4.15.4",
+    "mysql": "^2.14.1",
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
